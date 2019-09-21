@@ -1,3 +1,5 @@
+[![Status badge](https://img.shields.io/endpoint.svg?style=for-the-badge&url=https%3A//api-test.nl/api/v1/provider-latest-badge/BRP%2520Basis%2520Ingeschreven%2520Persoon%2520API%2520tests/henri/)](https://api-test.nl/api/v1/provider-latest-badge/BRP%20Basis%20Ingeschreven%20Persoon%20API%20tests/henri/)
+
 # Haal Centraal BRP bevragen
 
 BRP Bevragen is een Haal Centraal API voor het zoeken en raadplegen van ingeschreven natuurlijke personen voor alle binnengemeentelijke afnemers in NL.

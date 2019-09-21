@@ -1,4 +1,4 @@
-[![Status badge](https://img.shields.io/endpoint.svg?style=for-the-badge&url=https%3A//api-test.nl/api/v1/provider-latest-badge/BRP%2520Basis%2520Ingeschreven%2520Persoon%2520API%2520tests/henri/)](https://api-test.nl/api/v1/provider-latest-badge/BRP%20Basis%20Ingeschreven%20Persoon%20API%20tests/henri/)
+[![Status badge](https://img.shields.io/endpoint.svg?style=for-the-badge&url=https://api-test.nl/api/v1/provider-run-shield/719f6829-2987-4dea-a4b7-8e5c07072245/)](https://api-test.nl/server/719f6829-2987-4dea-a4b7-8e5c07072245/)
 
 # Haal Centraal BRP bevragen
 
